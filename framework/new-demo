@@ -1,3 +1,5 @@
-hello
-new lines
-hiii
+This is line 1 from the source repo.
+This is line 2 from the source repo.
+This is line 3 from the source repo.
+This is an EXTRA line 4 in the destination repo.
+This is an EXTRA line 5 in the destination repo.
