@@ -29,7 +29,8 @@
     "sequelize": "^6.3.2",
     "swagger-ui-express": "^4.1.4",
     "ua-parser-js": "^1.0.36",
-    "yamljs": "^0.3.0"
+    "yamljs": "^0.3.0",
+    "result-ip": "^3.3.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.3"
